@@ -67,10 +67,8 @@ MIT (or specify your license here)
 
 ## Examples
 
-### Trading Using Chart Image
-
-Analyze a financial chart image to extract trends, identify patterns, and provide actionable trading insights grounded in visual evidence.
-
-[![Trading Chart Example](screenshots/trading.png)](screenshots/trading.png)
+| Example                     | Description                                                                                                   | Screenshot                                      |
+|-----------------------------|---------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
+| Trading Using Chart Image   | Analyze a financial chart image to extract trends, identify patterns, and provide actionable trading insights grounded in visual evidence. | [![Trading Chart Example](screenshots/trading.png)](screenshots/trading.png) |
 
 *Click the thumbnail to view the full screenshot.* 
