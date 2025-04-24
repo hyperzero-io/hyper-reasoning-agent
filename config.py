@@ -15,7 +15,7 @@ class Config:
     # ...
     # OpenAI and Agent model config
     OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
-    OPENAI_BASE_URL = os.getenv('OPENAI_BASE_URL', 'https://gateway.airelay.io/v1')
+    OPENAI_BASE_URL = os.getenv('OPENAI_BASE_URL', 'https://api.openai.com/v1')
     OPENAI_MODEL_GPT4 = os.getenv('OPENAI_MODEL_GPT4', 'gpt-4.1-2025-04-14')
     OPENAI_MODEL_GPT45 = os.getenv('OPENAI_MODEL_GPT45', 'gpt-4.5-preview-2025-02-27')
     OPENAI_MODEL_O4MINI = os.getenv('OPENAI_MODEL_O4MINI', 'o4-mini-2025-04-16')
