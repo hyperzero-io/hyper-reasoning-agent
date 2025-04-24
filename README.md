@@ -1,5 +1,7 @@
 # Hyper Reasoning Agent
 
+[![GitHub Repo](https://img.shields.io/badge/GitHub-hyperzero--io%2Fhyper--reasoning--agent-blue?logo=github)](https://github.com/hyperzero-io/hyper-reasoning-agent)
+
 Hyper-Reasoning-Agent is a multi-modal AI system built on [Agno](https://github.com/agnos-ai/agno), inspired by O3, and designed for advanced, explainable, image-grounded insights. By integrating leading LLMs and vision models, it delivers robust, high-certainty reasoning for demanding tasks.
 
 ## Core Capabilities
@@ -19,7 +21,7 @@ Hyper-Reasoning-Agent is a multi-modal AI system built on [Agno](https://github.
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/hyperzero-io/hyper-reasoning-agent.git
 cd hyper-reasoning-agent
 ```
 
