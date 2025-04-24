@@ -2,7 +2,7 @@
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-hyperzero--io%2Fhyper--reasoning--agent-blue?logo=github)](https://github.com/hyperzero-io/hyper-reasoning-agent)
 
-Hyper-Reasoning-Agent is a multi-modal AI system built on [Agno](https://github.com/agnos-ai/agno), inspired by O3, and designed for advanced, explainable, image-grounded insights. By integrating leading LLMs and vision models, it delivers robust, high-certainty reasoning for demanding tasks.
+Hyper-Reasoning-Agent is a multi-modal AI system built on [Agno](https://github.com/agno-agi/agno), inspired by O3, and designed for advanced, explainable, image-grounded insights. By integrating leading LLMs and vision models, it delivers robust, high-certainty reasoning for demanding tasks.
 
 ## Core Capabilities
 
@@ -64,7 +64,7 @@ python playground.py
 MIT (or specify your license here)
 
 ## Acknowledgements
-- Built on [Agno](https://github.com/agnos-ai/agno)
+- Built on [Agno](https://github.com/agno-agi/agno)
 - Inspired by O3 and the latest advances in multi-modal AI 
 
 ## Examples
