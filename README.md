@@ -1,6 +1,12 @@
 # Hyper Reasoning Agent
 
-Hyper-Reasoning-Agent is a multi-modal AI built on [Agno](https://github.com/agnos-ai/agno), inspired by O3, combining top LLMs and vision models for deep reasoning. It runs visual-first analysis, cross-validates hypotheses, and uses modular tools for precise inference. Ideal for tasks needing high-certainty, explainable, image-grounded insights.
+Hyper-Reasoning-Agent is a multi-modal AI system built on [Agno](https://github.com/agnos-ai/agno), inspired by O3, and designed for advanced, explainable, image-grounded insights. By integrating leading LLMs and vision models, it delivers robust, high-certainty reasoning for demanding tasks.
+
+## Core Capabilities
+
+- **Vision Reasoning (GPT-4.1):** Performs deep, visual-first analysis of images, leveraging the GPT-4.1 model to ground all inferences in visual evidence before considering textual input.
+- **Hyper-Intelligent Thinking (GPT-4.5):** Utilizes the GPT-4.5 model for creative, context-rich, and insightful reasoning, synthesizing information across modalities for advanced problem-solving.
+- **Hyper-Logical Reasoning (o4-mini):** Employs the o4-mini model to deliver rigorous, step-by-step logical analysis, ensuring transparent and systematic evaluation of hypotheses.
 
 ## Features
 - **Visual-First Reasoning:** Analyzes images before text, grounding all answers in visual evidence.
