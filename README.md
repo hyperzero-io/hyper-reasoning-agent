@@ -74,5 +74,6 @@ MIT (or specify your license here)
 | X-ray Image Analysis      | Conduct comprehensive analysis of X-ray images to detect anomalies, interpret medical findings, and support diagnostic decisions with explainable, image-grounded reasoning. | [![X-ray Example](screenshots/x-ray-analyze.png)](screenshots/x-ray-analyze.png) |
 | Coffee Bean Roasting Analysis | Assess the roast level, uniformity, and quality of coffee beans from an image, providing expert evaluation and actionable recommendations for optimal roasting. | [![Coffee Roasting Example](screenshots/coffee_roasted_analyze.png)](screenshots/coffee_roasted_analyze.png) |
 | Flower Finder and Analysis | Identify flower species and analyze botanical features from an image, delivering detailed classification and insights using advanced visual reasoning. | [![Flower Finder Example](screenshots/flower_finder_and_analyze.png)](screenshots/flower_finder_and_analyze.png) |
+| Location Finder Using Image | Determine the geographic location or context from an image by analyzing visual cues, landmarks, and environmental features, providing precise and explainable geolocation insights. | [![Location Finder Example](screenshots/location_finder_using_image.png)](screenshots/location_finder_using_image.png) |
 
 *Click the thumbnail to view the full screenshot.* 
