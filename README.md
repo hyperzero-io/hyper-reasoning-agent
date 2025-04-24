@@ -64,3 +64,13 @@ MIT (or specify your license here)
 ## Acknowledgements
 - Built on [Agno](https://github.com/agnos-ai/agno)
 - Inspired by O3 and the latest advances in multi-modal AI 
+
+## Examples
+
+### Trading Using Chart Image
+
+Analyze a financial chart image to extract trends, identify patterns, and provide actionable trading insights grounded in visual evidence.
+
+[![Trading Chart Example](screenshots/trading.png)](screenshots/trading.png)
+
+*Click the thumbnail to view the full screenshot.* 
