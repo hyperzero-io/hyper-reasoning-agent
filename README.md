@@ -70,5 +70,6 @@ MIT (or specify your license here)
 | Example                     | Description                                                                                                   | Screenshot                                      |
 |-----------------------------|---------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
 | Trading Using Chart Image   | Analyze a financial chart image to extract trends, identify patterns, and provide actionable trading insights grounded in visual evidence. | [![Trading Chart Example](screenshots/trading.png)](screenshots/trading.png) |
+| Jadeite Jade Analysis      | Perform detailed visual analysis of a jadeite jade specimen, identifying quality indicators, inclusions, and authenticity markers using advanced vision reasoning. | [![Jadeite Jade Example](screenshots/jadeite_jade_analyze.png)](screenshots/jadeite_jade_analyze.png) |
 
 *Click the thumbnail to view the full screenshot.* 
