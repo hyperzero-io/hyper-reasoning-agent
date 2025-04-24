@@ -1,0 +1,60 @@
+# Hyper Reasoning Agent
+
+Hyper-Reasoning-Agent is a multi-modal AI built on [Agno](https://github.com/agnos-ai/agno), inspired by O3, combining top LLMs and vision models for deep reasoning. It runs visual-first analysis, cross-validates hypotheses, and uses modular tools for precise inference. Ideal for tasks needing high-certainty, explainable, image-grounded insights.
+
+## Features
+- **Visual-First Reasoning:** Analyzes images before text, grounding all answers in visual evidence.
+- **Multi-Model Integration:** Combines OpenAI, Gemini, and other LLMs for robust, cross-validated answers.
+- **Modular Toolkits:** Includes image processing, annotation, and online research tools.
+- **Explainable Output:** Produces step-by-step, transparent reasoning and confidence levels.
+- **Configurable & Extensible:** All API keys and model settings are managed via `.env` and `config.py`.
+
+## Setup
+
+### 1. Clone the Repository
+```bash
+git clone <your-repo-url>
+cd hyper-reasoning-agent
+```
+
+### 2. Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Configure Environment Variables
+Create a `.env` file in the project root (already provided as a template):
+
+```
+# Gemini API Key
+GEMINI_API_KEY=your_gemini_api_key_here
+
+# OpenAI API Key and Model Config
+OPENAI_API_KEY=your_openai_api_key_here
+OPENAI_BASE_URL=https://api.openai.com/v1
+OPENAI_MODEL_GPT4=gpt-4.1-2025-04-14
+OPENAI_MODEL_GPT45=gpt-4.5-preview-2025-02-27
+OPENAI_MODEL_O4MINI=o4-mini-2025-04-16
+```
+
+### 4. Run the Agent
+```bash
+python playground.py
+```
+
+## Usage
+- Upload images and ask questions via the provided playground interface.
+- The agent will analyze the image, reason through multiple hypotheses, and provide a detailed, explainable answer with confidence levels and cited sources.
+
+## Project Structure
+- `playground.py` — Main entry point and agent logic
+- `config.py` — Centralized configuration (reads from `.env`)
+- `requirements.txt` — Python dependencies
+- `saved_images/` — Stores processed and uploaded images
+
+## License
+MIT (or specify your license here)
+
+## Acknowledgements
+- Built on [Agno](https://github.com/agnos-ai/agno)
+- Inspired by O3 and the latest advances in multi-modal AI 
